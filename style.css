@@ -88,10 +88,64 @@ table.two {
 
 /* Gaps Between Cells */
 
-td {
+/* td {
     background-color: #0088dd;
     padding: 15px;
     border: 2px solid #000000;}
 table{
     border-collapse: collapse;
+} */
+
+/* Styling Forms */
+/* #ln{
+    margin: top 5px;
+} */
+
+/* input{
+    font-size: xx-large;
+    color: white;
+    background-color: black;
+} */
+
+/* input{
+    border: 5px solid rebeccapurple;
+    border-radius: 10px;
+} */
+
+/* input:hover{
+    background-color: lightblue;
 }
+input:focus{
+    border: 5px solid black;
+    outline: none;
+} */
+/* #fn{
+    background-image: url('./assest/email.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 20px;
+}
+#ln{
+    background-image: url('./assest/github.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 20px;
+} */
+
+
+
+/* fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+} */
