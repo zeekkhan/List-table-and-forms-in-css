@@ -149,3 +149,9 @@ legend {
     text-align: left;
     text-transform: uppercase;
 } */
+
+/* Coursor */
+
+#submit-btn{
+    cursor: pointer;
+}
